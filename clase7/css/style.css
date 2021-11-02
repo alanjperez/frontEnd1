@@ -1,21 +1,48 @@
+* {
+    margin: 0;
+}
 body {
     background: hsl(0, 0%, 100%);
-}
-.cajaDeTitulo { 
-    padding: 10px 5px 5px 10px;
-    background-color: rgb(153, 153, 153);
 }
 .logo {
     display: block;
     margin: auto;
-    
-h1 {
-    color: hsl(207, 86%, 28%);
-    text-align: center;
-    word-spacing: 5px;
 }
+.batman {
+    background-color: #E5E5E5;
+}
+h1 {
+    text-align: center;
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+ul {
+    margin-top: 20px;
 
-h2 {
-    color: rgb rgb(148, 154, 155)
+
+}
+p {
+    text-align: left;
+    margin-left: 15px;
+    margin-top: 20px;
+}
+h1, h2{
+    background-color: #C4C4C4;
+    color: #005677;
+    padding: 10px;
+    margin-top: 80px;
+    margin-bottom: 80px;
     
+}
+footer { 
+    background-color: #005677;
+    text-align: center;
+    color: #ffffff;
+    margin-top: 50px;
+    padding: 10px 30px;
+    font-size: 20px;
+    padding-top: 20px;
+}
+.redes {
+    padding: 0 10px;
 }
