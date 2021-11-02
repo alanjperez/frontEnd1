@@ -1,0 +1,21 @@
+body {
+    background: hsl(0, 0%, 100%);
+}
+.cajaDeTitulo { 
+    padding: 10px 5px 5px 10px;
+    background-color: rgb(153, 153, 153);
+}
+.logo {
+    display: block;
+    margin: auto;
+    
+h1 {
+    color: hsl(207, 86%, 28%);
+    text-align: center;
+    word-spacing: 5px;
+}
+
+h2 {
+    color: rgb rgb(148, 154, 155)
+    
+}
