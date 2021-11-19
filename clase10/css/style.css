@@ -1,0 +1,44 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+header {
+    justify-content: space-between;
+    display: flex;
+    background-color: rgb(22,22,22);
+    height: 90px;
+    
+}
+header ul {
+    color: rgb(255, 255, 255);
+    list-style: none;    
+    align-items: center;
+    display: flex;   
+}
+header ul li {
+    padding:0 40px 0 20px;  
+}
+header img{
+    padding: 10px;
+}
+.moto {
+    background-image:url("/Users/alanperez/Desktop/DigitalHouse/frontEnd1/clase10/img/delivery.jpg");
+    background-size: cover;
+    margin: 30px;
+    width: 450px;
+    height: 300px;
+}
+.moto h2 {
+    color: rgb(163, 0, 0);
+    display: flex;
+    padding-top: 10px;
+
+}
+.moto .blanco h2 {
+    display: flex;
+    color:rgb(255, 255, 255);
+    justify-content: space-between;
+}
+
+
+

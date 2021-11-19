@@ -1,0 +1,112 @@
+*{
+    margin: 0px; 
+    padding: 0px;
+}
+body {
+    
+    font-family: 'Bebas Neue', cursive;
+}
+header {
+    background-color: black;
+    color: white;
+    height: 50px;
+    
+}
+header .idiomas {
+   position: absolute;
+   margin-left: 90%;
+   margin-top: -23px;
+   color: white;
+   display: flex;
+
+}
+header .logo {
+    position: relative;
+    display: flex;
+    margin-top: -65px;
+    margin-left: 20px;    
+}    
+header ul{
+    color:white;
+    background-color: #F0A83E;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    margin-top: 5px;
+    height: 90px;
+    list-style: none;
+    text-align: center;
+    width: 100%;      
+}
+header .menu li{
+    text-align: center;
+    padding: 10px;    
+}
+section {
+    color: white;
+    height: 450px;
+    margin-top: 70px;
+    background-image: url('/Users/alanperez/Desktop/DigitalHouse/frontEnd1/clase12/img/bowl.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+section p {
+    color: white;
+    text-align: end;
+    margin-right: 140px;
+    font-size: 17px;
+    justify-content: end;
+    margin-top: 10px;
+}
+section .whiteBox  {
+    font-size: 30px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    height: 50px;
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 720px;
+    margin-top: -170px;
+    position: absolute;   
+}
+section .orangeBox {
+    background-color: rgb(233, 140, 34);
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    height: 50px;
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;git
+    margin-left: 770px;
+    margin-top: 20px;
+    position: relative; 
+    border-radius: 10px;  
+}
+main h2 {
+    text-align: center;
+}
+main .paw img{
+    display: block;
+    margin: auto;    
+}
+main .tresImagenes  #one{
+    position: absolute;
+    display: flexbox;
+    flex-direction: column;
+    align-content: center;
+
+    
+    
+    
+}
+
+
+
